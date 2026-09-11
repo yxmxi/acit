@@ -1,1 +1,1 @@
-Print ("HELLO BCIT")
+print ("HELLO BCIT")
